@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace vllrz_ndni
+namespace vllrz_ndn
 {
     using System;
     using System.Collections.Generic;
